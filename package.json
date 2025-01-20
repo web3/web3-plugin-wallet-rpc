@@ -1,7 +1,7 @@
 {
   "name": "web3-plugin-wallet-workspace",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Web3.js plugin to add support for wallet-related RPC methods",
   "homepage": "https://github.com/web3/web3-plugin-wallet-rpc#readme",
   "bugs": {
