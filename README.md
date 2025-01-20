@@ -1,5 +1,7 @@
 # Web3.js Plugin for Wallet RPC methods
 
+#### Web3.js libraries are being sunset on March 4th, 2025. For migration guides and more details please refer to [Chainsafe blog](https://blog.chainsafe.io/web3-js-sunset/)
+
 This Web3.js plugin adds support for the following wallet-related RPC methods:
 
 - [wallet_addEthereumChain (EIP-3085)](https://eips.ethereum.org/EIPS/eip-3085)
